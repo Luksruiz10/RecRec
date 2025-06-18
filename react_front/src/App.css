@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: 'Fontspring';
+  src: url('./assets/fonts/FONTSPRING-DEMO-THESEASONS-REG.OTF') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
