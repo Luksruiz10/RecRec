@@ -96,5 +96,5 @@ npm run dev
 
 ---
 
-🤝 Contribuciones
+## 🤝 Contribuciones
 ¡Se aceptan ideas, sugerencias o mejoras!
